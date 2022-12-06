@@ -1,0 +1,3 @@
+[submodule "repo_sub_module"]
+	path = repo_sub_module
+	url = https://github.com/araducu/repo_sub_module.git
